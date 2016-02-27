@@ -18,6 +18,7 @@ class PsychologistViewController: UIViewController {
     //Adding a test commit for git purpose
     //Added a second test comment 
     //Added a third comment in github
+    //Added a fourth comment in github for testing purpose
     
     override func prepareForSegue(segue: UIStoryboardSegue, sender: AnyObject?) {
         
